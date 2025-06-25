@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2024 Carlos Lopez
- * SPDX-License-Identifier: MIT
- */sx
+ * kkSPDX-License-Identifier: MIT
+ */
 
 #define ImTextureID ImU64
 
